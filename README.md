@@ -35,7 +35,6 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text("Aplicación"),
       ),
       body: Center(),
-      // This trailing comma makes auto-formatting nicer for build methods.
     );
   }
 }
